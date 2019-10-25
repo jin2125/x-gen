@@ -1,6 +1,6 @@
 package cn.javass.xgen.genconf;
 
-import cn.javass.xgen.genconf.confManager.ConfManager;
+import cn.javass.xgen.genconf.confmanager.ConfManager;
 import cn.javass.xgen.genconf.implementors.GenConfImplementor;
 import cn.javass.xgen.genconf.vo.GenConfModel;
 import cn.javass.xgen.genconf.vo.ModuleConfModel;

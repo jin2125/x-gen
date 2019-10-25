@@ -1,11 +1,10 @@
-package cn.javass.xgen.genconf.confManager;
+package cn.javass.xgen.genconf.confmanager;
 
 import cn.javass.xgen.genconf.implementors.GenConfImplementor;
 import cn.javass.xgen.genconf.implementors.ModuleGenConfImplementor;
 import cn.javass.xgen.genconf.vo.GenConfModel;
 import cn.javass.xgen.genconf.vo.ModuleConfModel;
 import cn.javass.xgen.genconf.vo.NeedGenModel;
-import cn.javass.xgen.genconf.vo.ThemeModel;
 
 import java.util.HashMap;
 import java.util.Map;
